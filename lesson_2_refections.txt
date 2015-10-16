@@ -1,0 +1,1 @@
+When I initialize a repository... a .git directory is created with metadata about history.
